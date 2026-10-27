@@ -18,7 +18,7 @@ A front-end web project that creates a parallax scrolling effect using HTML, CSS
 ## How to Run
 1. Download or clone this repository.
 2. Make sure all image files are in the correct folder.
-3. Open `index.html` in a web browser.
+3. Open `scrolling.html` in a web browser.
 
 ## Project Purpose
 Practice working with DOM elements, CSS positioning, and scroll-based animations in JavaScript.
